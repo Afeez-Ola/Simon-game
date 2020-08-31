@@ -1,0 +1,7 @@
+***************USING JQUERY OFFLINE ***************************
+Jquery gives two options of using it in our code. It's either we use the CDN (Content Delivery Network) or we download the whole Jquery folder from Jquery official Site.
+This two alternatives are quite uncomfortable for so many developers in most of the rural areas cause of lack access internet every day and the Jquery folder is also too large. There's a hack in doing by-passing these methods.
+First Step: Visit the official Jquery Site and click on "Download the compressed, production jQuery 3.5.1"
+Second Step: You are going to be re-directed to a page full of chunks of javascript codes , copy all the codes. 
+Third Step: Create a new folder in your DESKTOP and name it JQUERY, then create a .js file, probably jquery.js and paste all the codes you copied from the second step.
+Fourth Step: Open your IDE or text-editor and copy the folder into your workspace, then make a refrence to in your HTML code by using the link tag.
